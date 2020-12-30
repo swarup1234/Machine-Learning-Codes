@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# removing the csvs and xlsx and xls files from git
+**/*.csv
+**/*.xlsx
+**/*.xls
